@@ -1,0 +1,62 @@
+<vacante>
+
+	<desarrollo>
+		<materia>Inteligencia Artificial</materia>
+		<descripcion>Desarrollo de un sistema experto.</descripcion>
+		<individualEquipo>Equipo</individualEquipo>
+		<integrantes>4</integrantes>
+		<rol>Programador.</rol>
+		<actividades>Investigue y desarrolle parte del sistema experto el cual fue creado en el lenguaje de programación java.</actividades>
+		<aprendizaje>Aprendí un poco mas acerca del lenguaje java y todo lo que se puede lograr en este investigando.</aprendizaje>
+	</desarrollo>
+
+	<desarrollo>
+		<materia>Producción multimedia</materia>
+		<descripcion>Creación de una pagina web para la empresa Volaris.</descripcion>
+		<individualEquipo>Equipo</individualEquipo>
+		<integrantes>4</integrantes>
+		<rol>Programador.</rol>
+		<actividades>Desarrolle los apartados del cliente y del ejecutivo de ventas, en el cual se pueden realizar actualizaciones, altas y bajas de reservaciones o de usuarios.</actividades>
+		<aprendizaje>Aprendí el uso de nuevas tecnologías como es el framework de bootstrap.</aprendizaje>
+	</desarrollo>
+
+	<basededatos>
+		<materia>Diseño de base de datos</materia>
+		<descripcion>Desarrollo de un sistema en java para el control de un gimnasio, en el cual se pueden dar altas, bajas o actualizaciones del personal, clientes e inscripciones</descripcion>
+		<individualEquipo>Equipo</individualEquipo>
+		<integrantes>3</integrantes>
+		<rol>Programador y diseñador de base de datos</rol>
+		<actividades>Ayude en el diseño de la base de datos del sistema y programe algunos de los apartados del sistema.</actividades>
+		<aprendizaje>Aprendi el uso del software Workbench así como la creación y diseño de una base de datos</aprendizaje>
+	</basededatos>
+
+	<basededatos>
+		<materia>Administración de bases de datos</materia>
+		<descripcion>Desarrollo de un sistema en java que almacene y gestiona la venta de productos y que realice facturación</descripcion>
+		<individualEquipo>Equipo</individualEquipo>
+		<integrantes>6</integrantes>
+		<rol>Diseñador de base de datos y programador</rol>
+		<actividades>Diseñe la base de datos para el sistema y programe parte del apartado de ventas y facturación del sistema</actividades>
+		<aprendizaje>Aprendí un poco mas acerca del diseño de bases de datos y como se realiza la facturación de una venta.</aprendizaje>
+	</basededatos>
+
+	<redes>
+		<materia>Diseño de redes</materia>
+		<descripcion>Investigación para la instalación de una red para la universidad politécnica de Querétaro.</descripcion>
+		<individualEquipo>Equipo</individualEquipo>
+		<integrantes>6</integrantes>
+		<rol>Investigar acerca de las mejores compañias que ofrecen servicios de red y parte del material a ocupar.</rol>
+		<actividades>Investigue que compañías existen que proporcionen servicios de red y seleccione desde la más económica hasta la más costosa y saque el presupuesto del material a ocupar con base a medidas reales de la UPQ.</actividades>
+		<aprendizaje>Aprendí un poco mas acerca de los requerimientos en la instalación de una red de una manera mas real.</aprendizaje>
+	</redes>
+
+	<redes>
+		<materia>Seguridad en redes.</materia>
+		<descripcion>Comprobación de la seguridad de una conexion telnet.</descripcion>
+		<individualEquipo>Individual.</individualEquipo>
+		<integrantes>1</integrantes>
+		<rol>Configuración de red para intercambio de paquetes.</rol>
+		<actividades>Configure dos maquinas virtuales que tenian ubuntu usando cada una de ellas como un cliente y un servdor, descargue los paquetes requeridos para poder usar la conexión telnet y por ultimo use el programa shark para revisar el trafico de datos que se realizo con un ping y encontre las contraseñas en ellos.</actividades>
+		<aprendizaje>Aprendí las ventajas y desventajas de trabajar con una conexión hecha con telnet</aprendizaje>
+	</redes>
+</vacante>
